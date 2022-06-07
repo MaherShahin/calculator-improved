@@ -1,0 +1,22 @@
+{
+  "name": "calculator-improved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaherShahin/calculator-improved.git"
+  },
+  "author": "Maher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaherShahin/calculator-improved/issues"
+  },
+  "homepage": "https://github.com/MaherShahin/calculator-improved#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
